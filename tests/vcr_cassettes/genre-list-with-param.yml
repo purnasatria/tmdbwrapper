@@ -1,0 +1,64 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.31.0
+    method: GET
+    uri: https://api.themoviedb.org/3/genre/movie/list?language=id
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA32RzWrDMBCEXyXsOQfFP5HtW9PgSwgEUnopPSzN4mxtKSBLp+B3r6CglXvoVR8z
+        mpl9wkDW0QzdxxP4Bl3RbMGiIejgZZwZlu3v+65I7xfyASe0A1rBe5FZNpgpyzqh08PQTUijhNA3
+        3tFnjm2b4PExBkPWk5P/JObRoUEBSte7zHYK6IYMV4n1aP0qp1S4xjQO7wkVOnO0AznOq6tKyTjn
+        MPMoJfaVBD3zHCtwHrVqs1XdF8dEmXOjRfwalR43Pa+OorSWDXuezObtPdG6/Ku+kgurpYp/DlBK
+        6UNcw8PyufwAHleHeS8CAAA=
+    headers:
+      Alt-Svc:
+      - h3=":443"; ma=86400
+      Cache-Control:
+      - public, max-age=3940
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json;charset=utf-8
+      Date:
+      - Mon, 06 May 2024 18:54:02 GMT
+      ETag:
+      - W/"618325cf7bd74545701153e8857513df"
+      Server:
+      - openresty
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding,accept-encoding
+      - Origin
+      Via:
+      - 1.1 cecdc3bd2ec49ecb7c4bcd5b3ef549b8.cloudfront.net (CloudFront)
+      X-Amz-Cf-Id:
+      - Ru-ptlFvJETBct4IKXjdBHXDFin31t1ZwrKxh4-sZvOKTluWtpq2jg==
+      X-Amz-Cf-Pop:
+      - CGK51-P3
+      X-Cache:
+      - Miss from cloudfront
+      x-memc:
+      - HIT
+      x-memc-age:
+      - '20343'
+      x-memc-expires:
+      - '3940'
+      x-memc-key:
+      - 8fa025c14f06a7d7dfbe69085f15200c
+    status:
+      code: 200
+      message: OK
+version: 1

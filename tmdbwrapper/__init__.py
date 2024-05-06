@@ -19,3 +19,4 @@ session.params = {}
 session.params['api_key'] = TMDB_API_KEY
 
 from .tv import TV
+from .genre import Genre
