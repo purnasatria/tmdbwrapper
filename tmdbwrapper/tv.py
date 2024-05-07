@@ -6,9 +6,9 @@ class TV(object):
         self.id = id
 
     @staticmethod
-    def popular():
+    def popular(params:dict={}) -> dict:
         path = 'https://api.themoviedb.org/3/tv/popular'
-        response = session.get(path)
+        response = session.get(path, params=params)
         return response.json()
 
     @staticmethod

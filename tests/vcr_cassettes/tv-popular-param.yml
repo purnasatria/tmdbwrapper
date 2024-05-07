@@ -1,0 +1,109 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.31.0
+    method: GET
+    uri: https://api.themoviedb.org/3/tv/popular?language=id
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA61a2XLCuBL9FRUv80K43pe8sUNYwhK23DuVEljYwmtkGzBT8+/ThixgCGHqUpUi
+        RN5a57ROn5bzVy7AJsk98vkcI2HsRGHu8b9/5bABX3OPS+yEJJ+b44VtMD94C3Bk5R5z/7HoXOsE
+        pd5IrRtOPBQ1K5qWa1K84RaFVWDm8jmTeIy8USO9ncbleS2vK5L2Zz5HjdyjoIpSPuczalLvbeHH
+        XsQSOC83Gub+/BzHzpuDPTPeR5cjXu7ogIfddLCNN+h/MccJCnpmBmGPaBiQBcUOGtNFRN0QjTwa
+        pReuCVtTsoFrKtjBLgppGBEXBYRhg8JjUEAN7OE8jKQPNTGDsTlhcwxnopDYYQx3Nej+WIBC+I0j
+        ZJMVdguoQlGXbNDMZzYq0yjJI4NExI7oEiVwYnofgxjUhnsdBlziJcShMET397BwBI+DbxRRjyJs
+        QIwWSp/lRxgFOIxtOA5XRIfr4UICMEBcc2xiup8lavkQrYdaVhzGYQE1v29k0xA+XcKIjQuARuAH
+        sYMZRJp7lHVeL6iylo4CJOyLYd9zh+PNLOx1ZtGz9rxqG6uhVlsOuq35B8NLysLoDVP2ZuAopYPX
+        df2B0x8EDo5+UNSI7dj9JKkFsLCIQpiPHzHvg/0IHS5a+xF5w0DWnnS1oEv8x+A+SXKPoiIqf+d/
+        TU9vPEgMzXJM7rW9LXn6ADdVd9Tpt73dhfT8yM08z6mK/JGhvCIId8jQYQwp5uEoZtjJ5GGM08QI
+        cWxAsqUpsQBKEE6+qDpwbaXpaUJiMoo/s8fBEf06C0KL7fT6FaQynIZXMVC7P2tzyKqP/ApPYznJ
+        AkXRCpzMn2VBy59NpnNvBkt8ztWTfs+ex2TrjFv6T0kgcJycJgEvfidBBoVTlrWCoCunLKuCLN3C
+        smsKzkzqx8m0z4oeKwvOYO60ZPaiXGT5k1qJV+5AbZ2R5I8QFWFevpucktu04yhd2hY14iBVFwZJ
+        D+wY++/+koTUPyxgmzi+G/g2MnwbgIeljQaxCzkwxDawWGc4QUPHh+s6xIUQ9iqEhgRHkUPOFrOs
+        potZPqNxtag62rA57C5Brvu1TXtHqlG4qqyDzXUexQdB/ebxMFeK0qlf4jG7WnVd5G7gUQhXifYS
+        a72neq3flGr+TlI04d3WOpsrq1Xjvpcqdwc+y8PmI+pQ7NJTLrMY86JaUDnhDOOgO1GkYIUb66US
+        xKyLa9a7NGzMBkvnCsbCXjCP1spJGFk9VEX5FGFevglhxzJGG6vpTWORf2+4irzalIpO8BJovUsI
+        gw6qH+BqgqaKd0D3xSIg/46ToDIgaYe+h4aWv7kKNWSBUhDV89qk103e72ijUDPLQxk/FTXCvQ7i
+        ZsNb/gw1v69NnP4N9c8xneIOQWQzW7pFn5TReuQk2y5rD6NJcYBZJEsSrU1fJrUfTRJgL+vfQnWP
+        GlRkLAt0D7yO9WkP0tJDAHFs78uFO8cORWCEIrA8qc/xQLagMjkEok2/hahSBlNiHeoLaAHx0Ocz
+        TugTRKXAcedFxWzV5X59J3fNpbY0J0EpnESOKbeFYe0KfcIDz8HPkRp9PDNLlsZLp2TJqsbfQNdW
+        cra1pmWxSlPyJtFY80NvtpnXq8PxBbrEL6cgCfwdWOr4YGA9VIOF72SqyZBGtp+aVWAqNQBV1032
+        RvGEuSeoFD34Y2GRKNpXmk8DCTUmxgyITPCXIcVe6h0AMjDDEY5soPrTUByeguH+4BqiQwZ8lzL3
+        ECcUobafVj+TOCTMFiJRE+WCLp5TbzttKbE2dKThmlSMa7JRXj4V9XDgDa+IpJ4VydbHjD6iueQc
+        T1NAkDX9hhRYrJ12adGfBM/6VOBXlYZl9p68qoDH77e0Nbwk3iMV9iWgzKhL0HBBPAJefk3CiELL
+        AbbhqmSKUAvTuWdgp7Ll+oNVozvBRiIVo2K9WX4ZTW2v1bgCe7rcHjglU5uuBZZlQRHETL3ib3J2
+        brBgY2XQcqbbl/C5HKktlQuedt1dt/lLvRI4SZXuYe/S4vBEPI8uwZU1YuOmiiXKilRQOPGMAGVc
+        6hJfm9Z1Luy2JrM+l7xU3XFp2nj6mQBhbw544bRi/RDUmQpKGRXkb2mcluKCerr9vJO8Z+bMqp0t
+        WDJrLc2N7jVLrfLqXUpVOr+67xuo4i8in2VkkPhs3/0enPKcGFC89j26Db14QDwTevgAYbDeIWRo
+        qoAh9WB60O7jNUhZerKJ53F6D7KXNba32uHeaqcHYTSkeRQRFwBBdK+FpgV1MkjdPEAbf1bDIG3a
+        oDOnxDs8KcLLMxWUZBkK4LkdD2rvuyletEKq+4yvj43tSzuOphV917lSANW9Csqn2XCKVtaRS3rW
+        LwrcTUL4PtZ9btAslQet5L1dab8WqRXaA0Gsb38Swo9UkDVNuosIWnSBTR/1CpXC9TUn8FJB1aQz
+        lN3X5zlmnV5NVXr1sbtJNn21FUqjWjC4grL0wPEPnHYkeqeBnEEsZJpXQdDlGxA2llNhhBvjqrxQ
+        7XapNjfd6utTnEjV9U8Sl//yHAqvQeW5xwZaRFCXmlaENjSCppPAR4ckhIXXMecVMMXieRNkKh32
+        tO3ixqw+G6nDra8KRC5pZut5fB1z4SSzr8d1SoFckFXhlAJNvIWAIglstyKtjaU11AQmPDffa7y3
+        qQ/kywTIelruIdePK76q8PdoPrvl5vDx2FFdhx/EoKBfSPmXZtNc7LxNd9llYuv5db31BIW0xvq1
+        7ZqDuzqqMpeCyVZ2WdKzlZ27qSeivDCbvuJwzF57dPeqDrpTc7bzxbn5Q9pLn52ozN9jz3gQ93Ds
+        /AFNDEwFDfCCXIUaFrNYkJQLFb39Yi3Hi/pk2A43fdy3hPXa5vtC079mqfQ007kjrC+GcwZ2VmFu
+        yW951F1Ud2p7IT7XqRP0PP5lri8Mfhte2qIX5fyxjeKFy3sq9dK/r+cMW9BkdH0W3WKhBE0UC9A/
+        nAG+ZvN3XJqWtGKxnXj9XTDZKU9GuVd9utY6qHtpyVioiyFlQc90/IKo3mJcR9QQ2XxMzbBSEg1z
+        NCpz0nLWY5XSL+nNi6og/FtNDy9qOirjEIPFQQ4sYWgo/dC/rifp65gCp563a8tt2TT01mvEKeVt
+        pzLeRb1qPNZq4vyKoAhp/XwQpGM5/yGkrJLvYzjZCb4Bc7KSx911KZHG7+X3MMbuTPKJVKWb2vym
+        bRZRUPV7FNMG3mBKUY2uyQP3C96cBgZdOcM7bBrlluN2BG8kYbu5rvVxsQnN8qx6JcfTJi3z0iUT
+        ydk2opRtyxTxlh2SeRz1xhNzMY+Kq7b+qq5G6nTFt4paq/K7ZwFfpN2jVE5wtLDQxAKD3sAB2P4Q
+        tWGiB6NQ9IwElX2LXG+TgQCuoF0ooL43rOij6fJpwzrTifWujmaqVa8JQ966rurqA3/UKN8e4yk1
+        UkHPrgBZuMWuuw5t+75SH1ukI9QoPNgpTrflVnJpp3H/niv/5WiO7IySvjv4/196RZihF0bsR5Sq
+        bZdsI1QnHszx1/0LQdGVi+V2bbd3UwMEtdWQx4vAm9HBLniqsVdr9xMxvK4dWqYjM/9raFl7L8oZ
+        PnhRv2WpYMnwk94znq/7PuMGdXtiWONqtzgQ67e+gZT4e2y8F13CoIHxUMNnzGdoCJ1i8gsHslIQ
+        lHN1ktvtuj5fvXNUHctdabQcWB6ea7tGS7qiTvx+F+nI3P8UURZ6QDqzFCRR+RvmHvkRzC/9t4Uw
+        tYXpijkMff0DA68CetLf/wAoVtYr3CAAAA==
+    headers:
+      Alt-Svc:
+      - h3=":443"; ma=86400
+      Cache-Control:
+      - public, max-age=18610
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json;charset=utf-8
+      Date:
+      - Tue, 07 May 2024 19:42:06 GMT
+      ETag:
+      - W/"19da0a055154cb4b5744c5ce8c8d8d83"
+      Server:
+      - openresty
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding,accept-encoding
+      - Origin
+      Via:
+      - 1.1 9b976d0fbed47be47913c4020b845832.cloudfront.net (CloudFront)
+      X-Amz-Cf-Id:
+      - E34r4L4kkQT1o5b_gH9kDiajWVf2Z3pb6v7Mjf1zdtiN37q2nju5Tw==
+      X-Amz-Cf-Pop:
+      - CGK51-P3
+      X-Cache:
+      - Miss from cloudfront
+      x-memc:
+      - HIT
+      x-memc-age:
+      - '3876'
+      x-memc-expires:
+      - '18610'
+      x-memc-key:
+      - c12db020895cbdb9174d8ad91459bd88
+    status:
+      code: 200
+      message: OK
+version: 1
