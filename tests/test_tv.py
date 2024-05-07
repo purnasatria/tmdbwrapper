@@ -45,6 +45,19 @@ def test_tv_top_rated(tv_keys):
     assert isinstance(response['results'][0], dict)
     assert set(tv_keys).issubset(response['results'][0].keys())
 
+@vcr.use_cassette('tests/vcr_cassettes/tv-top-rated-param.yml', filter_query_parameters=['api_key'])
+def test_tv_top_rated_param(tv_keys):
+    """Tests an API call to get a top rated tv shows"""
+
+    params = {}
+    params['language'] = 'id'
+
+    response = TV.top_rated(params)
+
+    assert isinstance(response, dict)
+    assert isinstance(response['results'], list)
+    assert isinstance(response['results'][0], dict)
+    assert set(tv_keys).issubset(response['results'][0].keys())
 
 @vcr.use_cassette('tests/vcr_cassettes/tv-info.yml', filter_query_parameters=['api_key'])
 def test_tv_info(tv_keys):

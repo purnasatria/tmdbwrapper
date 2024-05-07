@@ -12,9 +12,9 @@ class TV(object):
         return response.json()
 
     @staticmethod
-    def top_rated():
+    def top_rated(params:dict={}) -> dict:
         path = 'https://api.themoviedb.org/3/tv/top_rated'
-        response = session.get(path)
+        response = session.get(path, params=params)
         return response.json()
 
     def info(self):
